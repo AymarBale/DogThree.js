@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rover
+* source:	https://sketchfab.com/3d-models/rover-c06453eb88544733b1d7f5b9ded70a19
+* author:	sidarthmenon (https://sketchfab.com/sidarthmenon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rover" (https://sketchfab.com/3d-models/rover-c06453eb88544733b1d7f5b9ded70a19) by sidarthmenon (https://sketchfab.com/sidarthmenon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

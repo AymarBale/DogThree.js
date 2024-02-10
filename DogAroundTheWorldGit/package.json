@@ -1,0 +1,17 @@
+{
+  "name": "testsiteweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.156.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
